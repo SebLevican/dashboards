@@ -1,4 +1,4 @@
-eyJrIjoiZDJhMWFkMDktODU1ZC00ZmZiLTk3NTYtZWUwMGYyM2ZjMDEwIiwidCI6ImZlNTVmYTkxLTI3NDQtNGRjMi04YWViLTNlODA3ZmY1ZjEwNiIsImMiOjR9
+https://app.powerbi.com/view?r=eyJrIjoiZDJhMWFkMDktODU1ZC00ZmZiLTk3NTYtZWUwMGYyM2ZjMDEwIiwidCI6ImZlNTVmYTkxLTI3NDQtNGRjMi04YWViLTNlODA3ZmY1ZjEwNiIsImMiOjR9
 
 I have created this dashboard using only DAX functions. The dashboard consists of three sheets: Revenue, Returns, and Channels.
 
