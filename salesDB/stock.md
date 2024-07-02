@@ -33,3 +33,6 @@ Users can input the specific date and select the type of currency.
 
 Compound Interest Formula Application:
 The calculator applies the compound interest formula to compute the payment amount accurately.
+
+Technologies Used:
+This dashboard was created using Python, SQL, and Power BI.
