@@ -1,6 +1,6 @@
 https://app.powerbi.com/view?r=eyJrIjoiODA5NmYyNzQtMTJkNi00NWMxLTg3MzItMGYxMTg0ZWIyZjZjIiwidCI6ImZlNTVmYTkxLTI3NDQtNGRjMi04YWViLTNlODA3ZmY1ZjEwNiIsImMiOjR9&pageName=ReportSection90c20cfa0567b48ea749
 
-![asd](Animation2.gif)
+![asd](animation2.gif)
 
 The dashboard consists of two main pages: "Dashboard" and "Payment." Each page offers specific functionalities for analyzing and managing delinquencies and payment calculations.
 
